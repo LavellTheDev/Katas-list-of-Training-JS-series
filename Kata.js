@@ -7,3 +7,4 @@ function helloWorld(){
   console.log(str)
 }
 //JS#1
+//Can't nobody tell me noootthhiinnnggg
