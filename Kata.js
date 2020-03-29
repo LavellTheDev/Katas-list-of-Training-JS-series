@@ -1,10 +1,11 @@
-//JS #1
+//A place to put solutions to the problems I solved. Lets get that bag.
 
-//refer to the example and write your first JS function
+//8kyu
+///PROBLEM///
+//Remove First and Last Character
+/*It's pretty straightforward. Your goal is to create a function that removes the first and last characters of a string. You're given one parameter, the original string. You don't have to worry with strings with less than two characters.*/
 
-function helloWorld(){
-  var str="Hello World!"
-  console.log(str)
-}
-//JS#1
-//Can't nobody tell me noootthhiinnnggg
+///Solution///
+/*function removeChar(str) {
+  return str.slice(1, -1);
+}*/
